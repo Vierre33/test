@@ -9,6 +9,6 @@
 
 int main()
 {
-    std::cout << "toto" << std::endl;
+    std::cout << "tota" << std::endl;
     return 0;
 }
